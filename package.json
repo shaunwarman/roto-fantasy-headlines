@@ -1,0 +1,17 @@
+{
+  "name": "roto-fantasy-headlines",
+  "version": "0.0.1",
+  "description": "A fantasy headlines interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/tape/bin/tape test/test-stats.js"
+  },
+  "author": "Shaun Warman",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
